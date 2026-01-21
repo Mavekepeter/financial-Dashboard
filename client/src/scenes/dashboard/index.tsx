@@ -49,9 +49,6 @@ const gridTemplateSmallScreens = `
 "j"
 "j"
 
-
-
-
 `
 
 const Dashboard = () => {
